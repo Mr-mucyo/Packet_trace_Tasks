@@ -1,8 +1,5 @@
 # Packet_trace_Tasks
 
-
-Here’s a refined README for your GitHub project based on your network configuration work:
-
 Cisco Packet Tracer Network Configuration
 This repository contains a series of network configuration experiments using Cisco Packet Tracer, designed to develop practical skills in configuring, testing, and troubleshooting small-scale networks. The project covers a variety of network setups, including home networks, basic network devices, wireless LANs, and VLANs.
 
